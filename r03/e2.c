@@ -25,7 +25,7 @@ int main(int argc, char **argv)
     int (*array[])(int) = {func1, func2, func3, func4, func5};
 
     /* FIXME: Please replace following '0's with some other values so that
-     *        The final printf will print out 1
+     *        The final printf will print out 1.
      */
     int a = (array[0](5) == 0);
     int b = (array[2](3) == 0);

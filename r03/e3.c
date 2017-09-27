@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// There is a bug in this program, it should be easy to find.
+// But do you know why it is a bug?
+
 int orig_func(int v)
 {
     return v + 4;
