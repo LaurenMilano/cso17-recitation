@@ -1,12 +1,15 @@
 Tutorial 3
 ==========
+
+Array and pointer are hard topics in C language. Especially when you use both of them in the program. This tutorial give you more exercises about pointer and array.
+
 Exercise 1
 ----
-**e1.c** shows different ways to access an array. Do you understand all of them? Why do these syntaxes work? Replace all three **0**s in line 11 - 14 with some other numbers so that the **printf** will print out 1.
+**e1.c** shows different ways to access an array. Do you understand all of them? Why do these syntax work? Replace all three **0**s in line 11 - 14 with some other numbers so that the **printf** will print out 1.
 
 Exercise 2
 ----
-You should already know that a pointer is a variable which contains the addres in memory of another variable. You may also know that not only data(variables) but also programs are are stored in memory. If so, can a pointer point to a function? The answer is yes. Pleaese check compile **e2.c** and execute it. You will get 0 as the output. Carefully read **e2.c** and replace all four **0**s in line 30 - 33 with some other numbers so that the **printf** will print out 1.
+You should already know that a pointer is a variable which contains the address in memory of another variable. You may also know that not only data(variables) but also programs are are stored in memory. If so, can a pointer point to a function? The answer is yes. Please check compile **e2.c** and execute it. You will get 0 as the output. Carefully read **e2.c** and replace all four **0**s in line 30 - 33 with some other numbers so that the **printf** will print out 1.
 
 Readings:
 * [Function Pointers](https://en.wikipedia.org/wiki/Function_pointer)
