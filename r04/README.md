@@ -14,7 +14,7 @@ In lab1, you have implemented a basic link list. Link list is useful when you wa
 
 ## What to submit and how to submit??
 Before submitting your solution, you can type **git diff** to see what you change. Be sure to change those lines or functions specified in above descriptions.  
-You need to submit all four modified files.  
-**git add strlen.c dlist.c**
-**git commit -m "r04"**
+You need to submit all two modified files.  
+**git add strlen.c dlist.c**   
+**git commit -m "r04"**  
 **git push**
